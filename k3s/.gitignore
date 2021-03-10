@@ -1,1 +1,4 @@
 cloud-init.yaml
+config.demo.yaml
+files/metalb.yaml
+files/kube-vip.yaml

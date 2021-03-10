@@ -3,4 +3,6 @@
 * multipass
 * k3s
 * ksup
-* 
+* kube-vip
+* metallb
+
